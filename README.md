@@ -8,7 +8,7 @@
         <li>Autonomia de viagem:car:</li>
         <li>Aluguel/Custo:car:</li>
     </ol>
-    <h3>Este repositório é um projeto do Bootcamp LocalizaLabs .NET Developer Digital Innovation One.</h3>
+    <h3>Este repositório é neu projeto do Bootcamp LocalizaLabs .NET Developer Digital Innovation One.</h3>
     <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150">
     <i>Desenvolvimento de aplicações com .NET</i>
  </div>    
