@@ -9,7 +9,7 @@
         <li>Aluguel/Custo:car:</li>
     </ol>
     <h3>Este repositório é meu projeto do Bootcamp LocalizaLabs .NET Developer Digital Innovation One.</h3>
-    <img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150">
+    <a href="https://digitalinnovation.one/sign-in"><img src="https://hermes.digitalinnovation.one/site/images/logo-footer.png" width="450" height="150"></a>
     <i>Desenvolvimento de aplicações com .NET</i>
  </div>    
 <hr/>
