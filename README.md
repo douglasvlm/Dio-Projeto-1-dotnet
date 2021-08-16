@@ -1,5 +1,5 @@
 <hr/>
-<div align="center">
+<div>
     <h1>Desenvolvimento de aplicações com .NET</h1>
     <h2><i> Aplicação Simples para cadastros de veículos :car:</i></h2>
    <ol align="left">
