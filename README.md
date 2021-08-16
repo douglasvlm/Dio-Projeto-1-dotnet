@@ -2,7 +2,7 @@
 <div align="center">
     <h1>Desenvolvimento de aplicações com .NET</h1>
     <h2><i> Aplicação Simples para cadastros de veículos :car:</i></h2>
-    <ol>
+   <ol align="left">
         <li>Listar veículos:car:</li>
         <li>Inserir veículo:car:</li>
         <li>Autonomia de viagem:car:</li>
