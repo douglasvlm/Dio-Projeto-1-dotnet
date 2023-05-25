@@ -1,3 +1,4 @@
+Updated on Aug 16, 2021
 <hr/>
 <div>
     <h1>Desenvolvimento de aplicações com .NET</h1>
